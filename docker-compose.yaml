@@ -1,0 +1,7 @@
+version: '3.1'
+
+services:
+  node_app:
+    image: karsa/docker:v1
+    ports:
+      - '0.0.0.0:3000:3000'
