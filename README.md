@@ -1,6 +1,6 @@
 # Docker Karsa Sharing
 
-Repository ini adalah bagian dari demo kegiatan Karsa Sharing #8 pengenalan aplikasi service berbasis kontainer
+Repository ini adalah bagian dari demo kegiatan Karsa Sharing #3 pengenalan aplikasi service berbasis kontainer
 
 ## Requirements
 1. Linux
